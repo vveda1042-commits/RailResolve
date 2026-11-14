@@ -1,0 +1,6 @@
+{
+  "name": "RailResolve – AI Railway Complaint Management System",
+  "description": "AI-assisted railway passenger complaint submission, ticket tracking, and departmental triage dashboard backed by Supabase and Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
